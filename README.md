@@ -42,6 +42,3 @@ Given the characteristics of our problem (classification based on spectral and p
 
 ## Reference
 - [Stellar Classification Dataset](https://www.kaggle.com/datasets/fedesoriano/stellar-classification-dataset-sdss17) from Kaggle.
-
-## Dataset
-Here is where you can download the dataset: [https://catalog.data.gov/dataset/crime-data-from-2020-to-present](https://catalog.data.gov/dataset/crime-data-from-2020-to-present)
